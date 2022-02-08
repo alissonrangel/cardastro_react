@@ -4,6 +4,26 @@ The project is an user interface of a car list, where you can create, read, upda
 
 Made with `React`, `Typescript`, `ContextAPI` and `React Router` as the main tecnologies.
 
+## 3 principais tipos de testes
+
+- Unit test = teste unitário
+ - testar uma parte específica do sistema
+- Integration test = teste de integração
+- E2E (End to end) 
+
+## Prioridades na hora de fazer os testes
+
+- As principais funcionalidades
+- Partes do sistema que tem maiores chances de quebrar
+- funcionalidades não tão importantes
+
+## Principais bibliotecas de testes
+
+- jest
+- testing library (RTL) = testes de componente
+- enzyme = testes react
+- cypress = testes E2E
+
 ## Available Scripts
 
 In the project directory, you can run:
